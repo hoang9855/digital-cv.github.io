@@ -1,0 +1,530 @@
+@media screen and (max-width: 576px){
+  .row1 img{
+    width:100%;
+  }
+  #banner {
+    position: absolute;
+    top: 80px;
+    margin-left: 210px;
+    transform: translate(-50%, -50%);
+    color: white;
+    
+  }
+  #banner p {
+    font-size: 16px;
+    padding-left: 30px;
+}
+
+
+/*phan navbar*/
+#nav-bar{
+  padding-top: 15px;
+  padding-bottom: 15px;
+  margin-left: -350px;
+}
+  .icon-list-html{
+    display: block;
+    padding-left: 50px;
+    text-decoration: none;
+    border: none;
+    
+   
+  }
+  .icon-list1-html{
+    display: block;
+    padding-left: 20px;
+    text-decoration: none;
+    border: none;
+  
+  }
+
+/*thong tin ca nhan*/
+  .container2 {
+    width: 470px;
+    margin-bottom: 50px;
+    margin-top: 100px;
+    display: block;
+  }
+  #target{
+    width: 475px;
+    margin-left: -150px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+  }
+  
+  
+  #personal-info{
+    margin-top: 0px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-left: 0px;
+    background-color: rgb(175, 179, 182);
+    
+  }
+  #personal-info h1{
+    margin-bottom: 30px;
+    margin-left: 50px;
+  }
+  .info{
+    list-style: none;
+    margin-left: -150px;
+  }
+  .icon{
+    margin-left: 50px;
+    color:#199cdb;
+    
+  }
+  .submit-email{
+    margin-left: 50px;
+  }
+
+
+/*thong tin nghe nghiep*/
+.container{
+  margin-bottom: 50px;
+  margin-right: -10px;
+  display: block;
+}
+ ul{
+  list-style: none;
+}
+.view-more,.less-more{
+  margin-top: 60px;
+}
+ /*kinh nghiem*/
+ #box1{
+  width: 470px;
+  margin-left: -210px;
+  border: 1px solid;
+  padding: 50px 50px 50px 50px;
+  
+  
+
+}
+#box1 i{
+  float: right;
+  font-size: 40px;
+ 
+}
+#box1 h1{
+  padding-bottom: 30px;
+}
+em {
+  border-radius: 10% ;
+  width: 40px;
+  height: 20px;
+  background-color: #199cdb;
+  text-align: center;
+  color: white
+
+}
+/*hoc van*/
+#box2{
+  width: 470px;
+  margin-left: -210px;
+  border: 1px solid;
+  padding: 50px 50px 50px 50px;
+
+}
+#box2 i{
+  float: right;
+  font-size: 40px;
+ 
+}
+#box2 h1{
+  padding-bottom: 30px;
+}
+
+/*hoat dong*/
+#box3{
+  width: 470px;
+  margin-left: -210px;
+  margin-right: -12px;
+  border: 1px solid;
+  padding: 50px 50px 50px 50px;
+
+}
+#box3 i{
+  float: right;
+  font-size: 40px;
+ 
+}
+#box3 h1{
+  padding-bottom: 30px;
+}
+
+/*so thich*/
+#box4{
+  width: 470px;
+  height: 380px;
+  margin-left: -210px;
+  margin-right: -12px;
+  border: 1px solid;
+  padding: 50px 50px 50px 50px;
+
+}
+#box4 h1 i{
+  float: right;
+  font-size: 40px;
+ 
+}
+#box4 h1{
+  padding-bottom: 30px;
+}
+#box4 ul i{
+  position: relative;
+  top: -20px;
+  margin-top: 10px;
+  margin-left: -40px;
+  margin-right: 20px;
+  padding: 10px 10px 10px 10px;
+  border-radius: 100%  ;
+  border: 1px solid;
+  text-align: center;
+  border-color: #199cdb;
+  color: #199cdb;
+  
+}
+
+#box4 li{
+ 
+  padding-right: 17px;
+  display: inline;
+  margin-left: -75px;
+  margin-right: 45px;
+
+}
+
+
+/*ngon ngu*/
+#box5{
+  width: 470px;
+  margin-left: -210px;
+  margin-right: -12px;
+  border: 1px solid;
+  padding: 50px 50px 50px 50px;
+
+}
+#box5 i{
+  float: right;
+  font-size: 40px;
+ 
+}
+#box5 h1{
+  padding-bottom: 30px;
+}
+#box5 span {
+  padding-right: 10px;
+  color: #199cdb;
+  height: 2px;
+  width: 45px;
+ 
+
+}
+#box5 span1 {
+  margin-left: 0px;
+  padding-right: 10px;
+  color: #808080;
+  height: 2px;
+  width: 45px;
+
+}
+
+/*ky nang*/
+#box6{
+  width: 470px;
+  margin-left: -210px;
+  margin-right: -12px;
+  border: 1px solid;
+  padding: 50px 50px 50px 50px;
+
+}
+#box6 i{
+  float: right;
+  font-size: 40px;
+ 
+}
+#box6 h1{
+  padding-bottom: 30px;
+}
+#box6 span {
+  padding-right: 10px;
+  color: #199cdb;
+  height: 2px;
+  width: 45px;
+
+}
+#box6 span1 {
+  margin-left: 0px;
+  padding-right: 10px;
+  color: #808080;
+  height: 2px;
+  width: 45px;
+
+}
+
+
+/*chung chi-giai thuong*/
+#certificate{
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  background-color: #DCDCDC;
+  height: 1250px;
+  width: 470px;
+}
+#certificate h1{
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-left: 20px;
+}
+.container3{
+  display: block;
+}
+.container3 img{
+ width: 440px;
+ padding-left: 50px;
+ 
+}
+
+.chungchi1{
+  display: block;
+  margin-left: -30px;
+  padding-bottom: 30px;
+  border-bottom: 2px solid red;
+}
+.chungchi2{
+  display: block;
+  margin-left: -30px;
+  padding-left: 0px;
+  padding-top: 40px;
+  padding-bottom: 30px;
+  border-bottom: 2px solid red;
+  border-left: none;
+}
+.chungchi3{
+  display: block;
+  margin-left: -30px;
+  padding-top: 40px;
+  padding-bottom: 50px;
+}
+.thanhtich{
+  padding-left: 50px;
+  list-style: none;
+}
+
+
+/*du an*/
+#project{
+  margin-left: 10px;
+}
+.container4{
+  margin-left: -0px;
+  display: block;
+ 
+}
+
+.duan{
+  margin-left: 10px;
+  margin-bottom: 50px;
+  width: 440px;
+}
+#project h1{
+  margin-left: 10px;
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+#project img{
+  width: 100%;
+  height: 200px;
+  margin-left: 0px;
+}
+.nam {
+  display: block;
+  padding-top: 10px;
+  border-radius: 1px;
+  border: 1px solid;
+  height: 110px;
+  padding-left: 20px;
+
+  
+  
+}
+.nam p {
+  border-radius: 10% ;
+  width: 55px;
+  height: 30px;
+  background-color: #199cdb;
+  text-align: center;
+  color: white;
+  padding-left: 0px;
+  margin-left: 5px;
+  
+}
+.nam p1{
+  margin-bottom: 20px;
+  padding-right: 350px;
+}
+.nam p2{
+  margin-top: 20px;
+}
+
+.title {
+  height: 70px;
+  padding-top: 20px;
+  border-radius: 1px;
+  border: 1px solid;
+  padding-left: 20px;
+  
+}
+
+/*table*/
+
+table {
+  border-spacing: 1;
+  border-collapse: collapse;
+  background-color: #DCDCDC;
+  border-radius: 1px;
+  overflow: hidden;
+  width: 300px;
+  margin: 0 auto;
+  position: relative;
+  width: 440px;
+  
+}
+table tr{
+  border: 1px solid;
+  
+}
+table th {
+  width: 100px;
+  
+}
+/*footer*/
+.container5{
+  margin-left: 10px;
+  width: 475px;
+}
+.container5 ul{
+  height: 100px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  text-align: center;
+  background-color: #DCDCDC;
+  padding-top:30px;
+  padding-bottom: 40px;
+  
+}
+.container5 ul li{
+  display: inline;
+  padding-left: 10px;
+  display: none;
+
+
+}
+.container5 ul i{
+  font-size: 200%;
+}
+.container5 a{
+  text-decoration: none;
+  
+}
+
+
+
+/*DIGITAL*/
+.container6{
+  display: block;
+}
+/*goal*/
+#goal{
+  margin-left: 6px;
+  width: 515px;
+ padding-top: 30px;
+ margin-top: 60px;
+ border: 15px solid rgb(0, 0, 255);
+ 
+}
+#goal span{
+  margin-left: 230px;
+}
+#goal h3{
+  margin-left: 20px;
+  margin-top: 20px;
+}
+#goal p{
+  margin-left: 20px;
+  border-bottom: 1px dotted;
+}
+/*scope*/
+#scope{
+  margin-left: 6px;
+  width: 515px;
+  margin-bottom: -20px;
+  border: 15px solid rgb(0, 0, 255);
+
+}
+.section-content1{
+  display: block;
+}
+
+/*team*/
+#team{
+  margin-left: 6px;
+  width: 515px;
+  border: 15px solid rgb(0, 0, 255);
+}
+#team i{
+  margin-left: 210px;
+}
+#team h3{
+  margin-top: 20px;
+  margin-left: 0px;
+}
+.name{
+  margin-left: -40px;
+}
+
+/*primary*/
+#primary{
+  margin-left: 6px;
+  width: 515px;
+  border: 15px solid rgb(0, 0, 255);
+  margin-bottom: -20px;
+
+}
+#primary span1{
+  margin-left: 210px;
+
+}
+#primary p{
+  margin-top: 20px;
+  margin-left: 0px;
+}
+
+/*timeline*/
+#timeline{
+   margin-left: 6px;
+  width: 515px;
+  border: 15px solid rgb(0, 0, 255);
+  
+}
+#timeline span2{
+  margin-left: 10px;
+  margin-top: -50px;
+  color: white;
+  
+}
+.row{
+  margin-top: 60px;
+  border-bottom: 1px dotted;
+}
+#timeline content{
+  margin-left: 10px;
+  
+}
+  
+
+};

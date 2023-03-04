@@ -1,0 +1,503 @@
+@media (min-width: 678px) and ( max-width: 992px){
+  
+  #banner {
+    position: absolute;
+    top: 100px;
+    left: 0%;
+    transform: translate(-50%, -50%);
+    color: white;
+    margin-left: 500px;
+    
+}
+
+  img{
+    margin-left: 20px;
+    
+  }
+  
+  #banner span1{
+    padding-left:40px;
+  }
+  #nav-bar{
+    list-style: none;
+    text-align: center; 
+    height:30px;
+    padding-top:15px;
+    padding-bottom: 15px;
+    
+  }
+  .icon-list-html {
+
+    list-style: none;
+    margin-left: 20px;
+    text-align: center;
+    border-left: 1px solid ;
+    text-decoration: none;
+    
+}
+.icon-list1-html {
+
+    list-style: none;
+    border-left: 1px solid;
+    border-right: 1px solid ;
+    flex-grow: 1;
+    margin-left: 20px;
+    text-align: center;    
+    text-decoration: none;
+}
+
+
+/*thong tin ca nhan*/
+  .container2{
+    padding-top: 60px;
+    margin-left: 20px;
+    margin-right: -20px;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    gap:20px;
+    
+  }
+  #target{
+    margin-left: -150px;
+  }
+  .info {
+    list-style: none;  
+  }
+  
+  .container2 h1{
+    padding-bottom: 30px;
+    font-size: 28px;
+  }
+
+  
+  .info span2 {
+    font-weight: bold;
+  }
+   
+  .icon {
+    margin-left: 200px;
+    margin-top: 20px;
+    color: #199cdb;
+    
+}
+
+
+/*thong tin nghe nghiep*/
+  .container{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 120px;
+    margin-right:130px;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    gap: 20px;
+    
+
+  }
+  .container h1 {
+    margin-top: 30px;
+    padding-bottom: 30px;
+    font-size: 30px;
+    
+  }
+ .container h1 i{
+  float: right;
+  margin-top: -20px;
+ }
+  ul{
+  list-style: none;
+  padding-left: 20px;
+}
+
+
+/*kinh nghiem*/
+  #box1{
+    border: 1px solid;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 10px;
+    
+  }
+  em {
+    border-radius: 10% ;
+    width: 60px;
+    height: 20px;
+    background-color: #199cdb;
+    text-align: center;
+    color: white
+
+}
+
+/*hoc van*/
+  #box2{
+    border: 1px solid;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: -30px;
+    
+    
+    
+  }
+
+
+/*hoat dong*/
+  #box3{
+    border: 1px solid;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 10px;
+    
+    
+  }
+
+
+/*so thich*/
+  #box4{
+    border: 1px solid;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: -340px;
+    margin-left: -30px;
+    height: 390px;
+   
+  }
+  #box4 ul i{
+    position: relative;
+    top: -20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-left: -20px;
+    margin-right: 15px;
+    padding: 10px 10px 10px 10px;
+    border-radius: 100%  ;
+    border: 1px solid;
+    text-align: center;
+    border-color: #199cdb;
+    color: #199cdb;
+    
+  }
+
+  #box4 li{
+    padding-left: -30px;
+    padding-right: 17px;
+    display: inline;
+    margin-left: -57px;
+    margin-right: 25px;
+   line-height: 10px;
+   font-size: 14px;
+   
+
+  
+}
+
+
+/*ngon ngu*/
+  #box5{
+    border: 1px solid;
+    padding-left: 20px;
+    padding-right: 20px;
+    list-style: none;
+    padding-bottom: 30px;
+    margin-left: 10px;
+  
+    
+    
+  }
+  #box5 span {
+    padding-right: 10px;
+    color: #199cdb;
+    height: 2px;
+    width: 45px;
+   
+
+}
+  #box5 span1 {
+    margin-left: 0px;
+    padding-right: 10px;
+    color: #808080;
+    height: 2px;
+    width: 45px;
+
+}
+
+
+/*ky nang*/
+  #box6{
+    border: 1px solid;
+    padding-left: 20px;
+    padding-right: 20px;
+    list-style: none;
+    margin-top:20px;
+    padding-bottom: 30px;
+    margin-left: -30px;
+    
+   
+  }
+  #box6 span {
+    padding-right: 10px;
+    color: #199cdb;
+    height: 2px;
+    width: 45px;
+
+}
+#box6 span1 {
+    margin-left: 0px;
+    padding-right: 10px;
+    color: #808080;
+    height: 2px;
+    width: 45px;
+
+}
+#container  ul{
+    list-style: none;
+  }
+
+/*chung chi-giai thuong*/
+#certificate{
+  height: 850px;
+  margin-left: 20px;
+  margin-right: -20px;
+  margin-bottom: 50px;
+  background-color: #DCDCDC;
+}
+#certificate h1{
+  padding-top: 30px;
+  padding-left: 50px;
+}
+.container3 {
+  display: grid;
+  grid-template-columns: 50% 50% ;
+  grid-template-rows: 50% 50%;
+  list-style: none;
+  margin-bottom: 50px;
+  margin-top: 50px;
+ 
+   
+}
+.thanhtich{
+  padding-left: 20px;
+}
+.chungchi1 {
+  display: block;
+  border-bottom: 2px solid #d6c08d;
+  margin-left: 30px;
+  padding-bottom: 340px;
+}
+.chungchi2 {
+  display: block;
+  border-left: 2px solid #d6c08d;
+  border-bottom: 2px solid #d6c08d;
+  padding-bottom: 340px;
+}
+.chungchi3 {
+  display: block;
+   margin-left: 30px;
+   padding-top: 150px;
+   padding-bottom: 50px;
+  
+}
+
+/*du an*/
+
+#project h1 {
+  margin-left: 100px;
+}
+.container4 {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-left: 100px;
+  margin-right: 100px;
+  display: grid;
+  grid-template-columns: 33% 33% 33%;
+  gap: 10px;
+  overflow: none;
+
+}
+.nam p {
+  border-radius: 10% ;
+  width: 55px;
+  height: 30px;
+  background-color: #199cdb;
+  text-align: center;
+  color: white;
+  padding-left: 0px;
+  margin-left: 7px;
+  padding-top: 3px;
+
+}
+
+
+
+.nam {
+  display: grid;
+  grid-template-columns: 30% 70%;
+  grid-template-rows: 50% 50%;
+  height: 70px;
+  padding-top: 10px;
+  border-radius: 1px;
+  border: 1px solid;
+  
+}
+.nam p2{
+  grid-column: 2/3;
+
+}
+.title {
+  height: 70px;
+  padding-top: 20px;
+  border-radius: 1px;
+  border: 1px solid;
+  padding-left: 20px;
+  
+}
+.duan img {
+  width: 224px;
+  margin-left:1px;
+  margin-right: 0px;
+}
+
+/*table*/
+table {
+  border-spacing: 1;
+  border-collapse: collapse;
+  background-color: #DCDCDC;
+  border-radius: 1px;
+  overflow: hidden;
+  max-width: 300px;
+  margin: 0 auto;
+  position: relative;
+  height: 440px;
+  width: 224px;
+}
+table tr{
+  border: 1px solid;
+}
+table th {
+  width: 100px;
+}
+ 
+
+/*footer*/
+.container5 ul{
+  height: 100px;
+  margin-left: 20px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  text-align: center;
+  background-color: #DCDCDC;
+  padding-top:40px;
+  padding-bottom: 40px;
+}
+.container5 ul li{
+  display: inline;
+  padding-right: 10px;
+  padding-left: 0px;
+ 
+
+}
+#footer a{
+  text-decoration: none;
+  
+}
+.container5 ul i{
+  font-size: 150%;
+}
+
+/*DIGITAL*/
+.container6{
+  display: block;
+}
+/*goal*/
+#goal{
+  margin-left: -5px;
+  border: 25px solid rgb(0, 0, 255);
+}
+#goal span{
+  margin-left: 450px;
+}
+#goal h3{
+  margin-left: 20px;
+  margin-top: 20px;
+}
+#goal p{
+  margin-left: 20px;
+  border-bottom: 1px dotted;
+}
+
+/*scope*/
+
+#scope{
+  margin-left: -5px;
+  border: 25px solid rgb(0, 0, 255);
+  margin-top: -40px;
+
+}
+.section-content1{
+  display: block;
+}
+
+
+/*team*/
+
+#team{
+  margin-left: -5px;
+  border: 25px solid rgb(0, 0, 255);
+  margin-top: -45px;
+
+}
+#team i{
+  margin-left: 420px;
+}
+#team h3{
+  margin-top: 20px;
+  margin-left: 0px;
+}
+.name{
+  margin-left: -40px;
+}
+
+
+/*primary*/
+#primary{
+  margin-left: -5px;
+  border: 25px solid rgb(0, 0, 255);
+  margin-top: -25px;
+
+}
+#primary span1{
+  margin-left: 420px;
+
+}
+#primary p{
+  margin-top: 20px;
+  margin-left: 0px;
+}
+/*timeline*/
+#timeline{
+  margin-left: -5px;
+  margin-right: -0px;
+  border: 25px solid rgb(0, 0, 255);
+  margin-top: -45px;
+  margin-bottom: 30px;
+
+}
+#timeline span2{
+  color: white;
+  margin-left: 10px;
+  margin-top: -50px;
+
+  
+}
+.row{
+  margin-top: 60px;
+  border-bottom: 1px dotted;
+}
+#timeline content{
+  margin-left: 10px;
+  
+}
+
+}
+
+
+

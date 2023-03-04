@@ -1,0 +1,471 @@
+
+body {
+    margin-left: 40px;
+    margin-right: 40px;;
+}
+/*thong tin ca nhan*/
+/*.anhcanhan {
+    position: absolute;
+    border-radius:  50%;
+    border-style: solid;
+    border-width: 5px;
+    width: 150px;
+    border-color: white;
+    text-align: center;
+    
+
+}*/
+img {
+    position: relative;
+    text-align: center;
+    
+}
+#about {
+    background-color: #fff;
+    margin-top: 30px;
+    
+}
+
+
+
+#banner {
+    position: absolute;
+    top: 130px;
+    left: 13%;
+    transform: translate(-50%, -50%);
+    color: white;
+    margin-left: 500px;
+    
+}
+
+#banner p {
+    font-size: 16px;
+    padding-left: 60px;
+}
+
+
+/*phan navbar*/
+#nav-bar {
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    height: 35px;
+    
+}
+
+.list {
+    display: flex;
+    justify-content: content;
+    text-align: center;
+    padding-left: 200px;
+    
+}
+
+
+.icon-list-html {
+    text-decoration: none;
+    list-style: none;
+    flex-grow: 300px;
+    margin-left: 60px;
+    text-align: center;
+    border-left: 1px solid ;
+    
+    
+}
+.icon-list1-html {
+    text-decoration: none;
+    list-style: none;
+    border-left: 1px solid;
+    flex-grow: 1;
+    padding-left: 60px;
+    margin-left: 60px;
+    
+    
+}
+
+
+/*thong tin ca nhan */
+.container2 {
+    background-color:#DCDCDC;
+    display: grid;
+    grid-template-columns: 50% 50%;
+   
+    
+    
+}.container2 h1 {
+    margin-left: 45px;
+    margin-left: 200px;
+    
+}
+#personal-info {
+    margin-top: 20px;
+    margin-left: -100px;
+    text-align: left;
+}
+.submit-email{
+    margin-left: 200px ;
+}
+
+#target {
+    margin-top: 20px;
+    margin-left: 50px;
+    text-align: left;
+}
+.container2 p {
+    margin-left: 200px;
+    margin-top: 20px;
+}
+
+ul {
+    list-style: none;
+    line-height: 100%;
+    margin-top: 20px;
+}
+span2 {
+    font-weight: 600;
+    margin-left: 180px;
+}
+.info li0 {
+    margin-left: 10px;
+    text-align: left;
+    
+}
+.icon {
+    margin-left: 200px;
+    margin-top: 0px;
+    color: #199cdb;
+    
+}
+
+/*ẩn thông tin eser*/
+.section-content{
+    display: none;
+}
+    
+
+/*css error email*/
+#error-email{
+    color: red;
+    font-weight: 700;
+    margin-left: 0;
+    
+}
+/*none viewmore*/
+.view-more,.less-more{
+    display: none;
+}
+
+
+/*thông tin nghê nghiệp*/
+.container h1 {
+    margin-top: 30px;
+    display: grid;
+    grid-template-columns: 75% 25%;
+    font-size: 25px;
+}
+ul{
+    list-style: none;
+    padding-left: 20px;
+}
+.container {
+    display: grid;
+    grid-template-columns: 32% 32% 32%;
+    margin: 30px 200px 30px 200px;
+    column-gap: 10px;
+
+}
+
+/*an noi dung */
+
+
+/*KINH NGHIEM*/
+#box1 {
+    display: grid;
+    grid-template-rows: 100px 470px;
+    border: 1px solid;
+    padding: 30px 30px 30px 30px;
+    width:300px;
+    margin-left:-20px;
+
+} 
+#box1 li{
+    padding-bottom: 5px;
+}
+em {
+    border-radius: 10% ;
+    width: 40px;
+    height: 20px;
+    background-color: #199cdb;
+    text-align: center;
+    color: white
+
+}
+/*HOC VAN*/
+#box2{
+    display: grid;
+    grid-template-rows: 100px 280px;
+    border: 1px solid;
+    padding: 30px 30px 30px 30px;
+    margin-left: -110px;
+    width: 300px;
+    
+   
+} 
+#box2 li{
+    padding-bottom: 5px;
+}
+/*HOAT DONG*/
+#box3{
+    display: grid;
+    grid-template-rows: 100px 230px;
+    border:1px solid;
+    padding: 30px 30px 30px 30px;
+    margin-left: -200px;
+    width: 300px;
+    
+    
+
+} 
+#box3 li{
+    padding-bottom: 5px;
+}
+/*SO THICH*/
+#box4 {
+    display: flexbox;
+    flex-direction: row;
+    border: 1px solid;
+    list-style: none;
+    padding: 5px 5px 30px 30px;
+    justify-content: space-between;
+    height: 280px;
+    width: 300px;
+    margin-top: 20px;
+    margin-left: -20px;
+    
+    
+} 
+#box4 ul i {
+    position: relative;
+    top: -20px;
+    padding: 10px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    padding-bottom: 5px;
+    border-radius: 100%;
+    border: 1px solid;
+    border-color: #199cdb;
+    color: #199cdb;
+}
+
+#box4 li {
+    display: inline;
+    padding-left: -15px;
+    padding-right: -5px;
+   margin-left: -40px;
+    margin-right: 10px;
+    line-height: 20px;
+            
+}
+
+/*NGON NGU*/
+
+#box5 {
+    display: grid;
+    grid-template-rows: 100px 130px;
+    border: 1px solid;
+    padding: 30px 30px 30px 30px;
+    list-style: none;
+    margin-top: -115px;
+    width: 300px;
+    margin-left:-110px;
+    margin-top:-200px;
+    
+    
+} 
+#box5 span {
+    padding-right: 10px;
+    color: #199cdb;
+    height: 2px;
+    width: 45px;
+   
+
+}
+#box5 span1 {
+    margin-left: 0px;
+    padding-right: 10px;
+    color: #808080;
+    height: 2px;
+    width: 45px;
+
+}
+/*KY NANG*/
+#box6 {
+    display: grid;
+    grid-template-rows: 100px 230px;
+    border: 1px solid;
+    padding: 30px 30px 30px 30px;
+    list-style: none;
+    margin-top: -166px;
+    width: 300px;
+    margin-left: -200px;
+    margin-top: -220px
+    
+} 
+#box6 span {
+    padding-right: 10px;
+    color: #199cdb;
+    height: 2px;
+    width: 45px;
+
+}
+#box6 span1 {
+    margin-left: 0px;
+    padding-right: 10px;
+
+    color: #808080;
+    height: 2px;
+    width: 45px;
+
+}
+
+/*chung chi-giai thuong*/
+#certificate{
+    background-color: #DCDCDC;
+    
+}
+#certificate h1{
+   margin: 30px;
+    padding-top: 30px;
+    
+}
+.container3 {
+    display: grid;
+    grid-template-columns: 50% 50% ;
+    grid-template-rows: 50% 50%;
+    list-style: none; 
+    margin: 30px 30px ;
+    height: 500px;
+    
+     
+}
+
+.chungchi1 {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-row: 1/2;
+    border-bottom: 2px solid #d6c08d;
+    gap: 10px;
+   padding-bottom: 30px;
+    
+    
+    
+
+}
+.chungchi2 {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-row: 1/2;
+    grid-column: 2/3;
+    border-left: 2px solid #d6c08d;
+    border-bottom: 2px solid #d6c08d;
+    gap: 10px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+
+   
+   
+}
+.chungchi3 {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    gap: 10px;
+   padding-top: 30px;
+   padding-bottom: 30px;
+  
+}
+
+
+/*DU AN*/
+#project h1{
+    margin-left: 200px;
+}
+   
+
+.container4 {
+    margin-top: 30px;
+    display: grid;
+    grid-template-columns: 300px 300px 300px;
+    margin: 30px 200px 30px 200px;
+    gap: 20px;
+    overflow: none;
+}
+.nam p {
+    border-radius: 10% ;
+    width: 50px;
+    height: 20px;
+    background-color: #199cdb;
+    text-align: center;
+    color: white;
+    margin-left: 10px;
+
+    
+   
+   
+
+}
+.nam {
+    display:flex;
+    height: 40px;
+    padding-top: 20px;
+    border-radius: 1px;
+    border: 1px solid;
+    
+}
+.title {
+    height: 40px;
+    padding-top: 20px;
+    border-radius: 1px;
+    border: 1px solid;
+}
+/*table*/
+table {
+    border-spacing: 1;
+    border-collapse: collapse;
+    background-color: #DCDCDC;
+    border-radius: 1px;
+    overflow: hidden;
+    width: 300px;
+    margin: 0 auto;
+    position: relative;
+    height: 250px;
+}
+table tr{
+    border: 1px solid;
+}
+table th {
+    width: 100px;
+}
+/*FOOTER*/
+.container5 ul{
+    height: 100px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+    background-color: #DCDCDC;
+    padding-top:40px;
+    padding-bottom: 40px;
+  }
+  .container5 ul li{
+    display: inline;
+    padding-right: 10px;
+    padding-left: 0px;
+
+   
+  
+  }
+  #footer a{
+    text-decoration: none;
+  }
+
